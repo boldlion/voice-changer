@@ -10,4 +10,4 @@ A simple `Swift` app that allows you to record a message and play it back with a
 
 ### DEMO ###
 
-![](https://im2.ezgif.com/tmp/ezgif-2-7bf88fbe3c.gif) 
+![](https://camo.githubusercontent.com/32def4ae530541032a02262e07a78d553c24e81f/68747470733a2f2f696d322e657a6769662e636f6d2f746d702f657a6769662d322d653735666563373862662e676966) 
